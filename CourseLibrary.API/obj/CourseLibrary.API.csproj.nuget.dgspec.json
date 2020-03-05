@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
+    "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {
+    "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectUniqueName": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectPath": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "packagesPath": "C:\\Users\\jmcso\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\obj\\",
+        "outputPath": "D:\\PersonalBranding\\Seglares\\@jmanuelsoberano\\Pluralsight\\CourseLibrary\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\jmcso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,7 +36,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -47,25 +44,25 @@
             },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -86,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
